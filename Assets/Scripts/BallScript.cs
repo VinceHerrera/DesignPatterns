@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
+/*
+Name: Vince Herrera
+*/
 public class BallScript : MonoBehaviour
 {
     //Vars

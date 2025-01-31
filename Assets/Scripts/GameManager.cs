@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+/*
+Name: Vince Herrera
+*/
 public class GameManager : MonoBehaviour
 {
     //Vars
