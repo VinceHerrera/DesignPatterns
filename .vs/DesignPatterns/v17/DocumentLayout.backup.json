@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1B12FD-5FC7-045D-4E2D-0A88B837B0F0}|Assembly-CSharp.csproj|C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\assets\\scripts\\ballscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1B12FD-5FC7-045D-4E2D-0A88B837B0F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ballscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1B12FD-5FC7-045D-4E2D-0A88B837B0F0}|Assembly-CSharp.csproj|C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\assets\\scripts\\breakablebrick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1B12FD-5FC7-045D-4E2D-0A88B837B0F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\breakablebrick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1B12FD-5FC7-045D-4E2D-0A88B837B0F0}|Assembly-CSharp.csproj|C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\assets\\scripts\\management\\roundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1B12FD-5FC7-045D-4E2D-0A88B837B0F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\management\\roundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1B12FD-5FC7-045D-4E2D-0A88B837B0F0}|Assembly-CSharp.csproj|c:\\users\\vince\\desktop\\game design\\repo_hw\\designpatterns\\assets\\scripts\\management\\scoredisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1B12FD-5FC7-045D-4E2D-0A88B837B0F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\management\\scoredisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1B12FD-5FC7-045D-4E2D-0A88B837B0F0}|Assembly-CSharp.csproj|c:\\users\\vince\\desktop\\game design\\repo_hw\\designpatterns\\assets\\scripts\\management\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1B12FD-5FC7-045D-4E2D-0A88B837B0F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\management\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1B12FD-5FC7-045D-4E2D-0A88B837B0F0}|Assembly-CSharp.csproj|C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\assets\\scripts\\gameender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1B12FD-5FC7-045D-4E2D-0A88B837B0F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1B12FD-5FC7-045D-4E2D-0A88B837B0F0}|Assembly-CSharp.csproj|C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\assets\\scripts\\canvasnav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1B12FD-5FC7-045D-4E2D-0A88B837B0F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\canvasnav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD1B12FD-5FC7-045D-4E2D-0A88B837B0F0}|Assembly-CSharp.csproj|C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\assets\\scripts\\playerpaddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD1B12FD-5FC7-045D-4E2D-0A88B837B0F0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerpaddle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BallScript.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\Assets\\Scripts\\BallScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BallScript.cs",
+              "ToolTip": "C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\Assets\\Scripts\\BallScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BallScript.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T16:47:39.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\Assets\\Scripts\\Management\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Management\\GameManager.cs",
+              "ToolTip": "C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\Assets\\Scripts\\Management\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Management\\GameManager.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:03:44.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScoreDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\Assets\\Scripts\\Management\\ScoreDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Management\\ScoreDisplay.cs",
+              "ToolTip": "C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\Assets\\Scripts\\Management\\ScoreDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Management\\ScoreDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:15:01.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameEnder.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\Assets\\Scripts\\GameEnder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameEnder.cs",
+              "ToolTip": "C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\Assets\\Scripts\\GameEnder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameEnder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:02:49.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CanvasNav.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\Assets\\Scripts\\CanvasNav.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CanvasNav.cs",
+              "ToolTip": "C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\Assets\\Scripts\\CanvasNav.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CanvasNav.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:26:38.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\Assets\\Scripts\\Management\\RoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Management\\RoundManager.cs",
+              "ToolTip": "C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\Assets\\Scripts\\Management\\RoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Management\\RoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:05:02.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BreakableBrick.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\Assets\\Scripts\\BreakableBrick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BreakableBrick.cs",
+              "ToolTip": "C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\Assets\\Scripts\\BreakableBrick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BreakableBrick.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T19:51:23.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerPaddle.cs",
+              "DocumentMoniker": "C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\Assets\\Scripts\\PlayerPaddle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerPaddle.cs",
+              "ToolTip": "C:\\Users\\vince\\Desktop\\Game Design\\REPO_HW\\DesignPatterns\\Assets\\Scripts\\PlayerPaddle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerPaddle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T17:04:01.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

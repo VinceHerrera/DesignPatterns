@@ -9,16 +9,14 @@ Name: Vince Herrera
 
 public class Canvasnav : MonoBehaviour
 {
-    //Vars
-    [SerializeField]
-
     //Methods
-    public void LoadNextScene(int aIDX)
+    public void LoadNextScene()
     {
-        SceneManager.LoadScene(aIDX);
+        GameManager.Instance.NextScene();
     }
     public void LoadStartScreen()
     {
-        LoadNextScene(0);
+        GameManager.Instance.StartScene();
+        //LoadNextScene(0);
     }
 }

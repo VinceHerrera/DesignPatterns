@@ -356,8 +356,13 @@
 -analyzer:"C:/Program Files/Unity 2022.3.38f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity 2022.3.38f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/BallScript.cs"
+"Assets/Scripts/BreakableBrick.cs"
 "Assets/Scripts/CanvasNav.cs"
-"Assets/Scripts/GameManager.cs"
+"Assets/Scripts/GameEnder.cs"
+"Assets/Scripts/Management/GameManager.cs"
+"Assets/Scripts/Management/RoundManager.cs"
+"Assets/Scripts/Management/ScoreDisplay.cs"
+"Assets/Scripts/PlayerPaddle.cs"
 -langversion:9.0
 /deterministic
 /optimize+
